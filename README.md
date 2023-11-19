@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TadasDanilevicius
 - 👀 I’m highly interested in applying programming in solving chemistry, finance problems
-- 🌱 I’m currently learning ASP.NET and other magical C# capabilities
+- 🌱 I’m currently learning Python
 - 💞️ Currently I’m looking to collaborate on any projects. 
 - 📫 You can mail me on t.danilevicius@hotmail.lt
 
